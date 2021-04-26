@@ -9,7 +9,6 @@ examples/counter/typings/
 src/typings/
 typings/
 tmp/
-lib/
 .nyc_output/
 coverage/
 *.ngsummary.json
